@@ -3,13 +3,13 @@
 
 ------------------------------ROAD MAP------------------------------
 
-HTML: ✔️
-CSS: in progress...
-TYPESCRIPT: 💬
-REACT: 💬
-NODE.JS: 💬
-MYSQL: 💬
-EXPRESS.JS: 💬
+- HTML: ✔️
+- CSS: in progress...
+- TYPESCRIPT: 💬
+- REACT: 💬
+- NODE.JS: 💬
+- MYSQL: 💬
+- EXPRESS.JS: 💬
 
 --------------------------------------------------------------------
 
