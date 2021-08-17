@@ -5,7 +5,7 @@
 
 - HTML: ✔️
 - CSS: in progress...
-- TYPESCRIPT: 💬
+- TYPESCRIPT: starting soon...
 - REACT: 💬
 - NODE.JS: 💬
 - MYSQL: 💬
