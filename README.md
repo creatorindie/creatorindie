@@ -4,8 +4,8 @@
 ------------------------------ROAD MAP------------------------------
 
 - HTML: ✔️
-- CSS: in progress...
-- TYPESCRIPT: starting soon...
+- CSS: ✔️
+- TYPESCRIPT: in progress...
 - REACT: 💬
 - NODE.JS: 💬
 - MYSQL: 💬
