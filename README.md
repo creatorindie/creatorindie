@@ -11,5 +11,5 @@
 <p align="center"> 
 <a><img src="https://img.shields.io/badge/HTML-For%20Structure-ff0024" height=25></a> 
 <a><img src="https://img.shields.io/badge/CSS-For%20Style-ff0024" height=25></a><br>
-<a href="https://github.com/creatorindie"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=creatorindie&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=ff0024&text_color=ff0024&icon_color=ff0024&title_color=ff0024&border_color=ff0024"></a>  
+<a href="https://github.com/creatorindie"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=creatorindie&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=ffffff&text_color=ffffff&icon_color=ff0024&title_color=ff0024&border_color=ff0024"></a>  
 </p>
