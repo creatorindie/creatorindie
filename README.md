@@ -1,7 +1,7 @@
 <h2 align='center'>Stats</h2>
 <p align="center">
 <a href="https://github.com/creatorindie">
-<img src="https://komarev.com/ghpvc/?username=creatorindie&style=flat-square&color=7d8cbe&label=Profile+Views"></a>
+<img src="https://komarev.com/ghpvc/?username=creatorindie&style=flat-square&color=ff0024&label=Profile+Views"></a>
 <a href="https://github.com/creatorindie?tab=repositories">
 <img src="https://badges.pufler.dev/repos/creatorindie?style=flat-square&color=7d8cbe&logo=github"></a> <br>
 <a href="https://github.com/creatorindie?tab=followers"><img src="https://img.shields.io/github/followers/creatorindie?style=social"></a> <br>
